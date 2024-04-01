@@ -1,0 +1,10 @@
+body{  
+   background-image: url(https://images.pexels.com/photos/1421903/pexels-photo-1421903.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+   background-size: cover;
+   height: 100vh; /* Ensure full viewport height */
+   overflow: hidden; /* Prevent scrolling */
+   background-position: 0px 0px;
+   margin: 0;
+   padding: 0;
+   overflow: auto;
+}

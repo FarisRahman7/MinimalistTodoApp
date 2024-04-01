@@ -1,0 +1,9 @@
+.heading {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 6.25rem; /* 100px / 16px = 6.25rem */
+  font-family: "Amatic SC", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  margin: 0.625rem; /* 10px / 16px = 0.625rem */
+}
